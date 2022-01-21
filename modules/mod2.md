@@ -2,7 +2,7 @@
 
 # Temple Transcript Request Text
 
-#### What is an official transcript?
+### What is an official transcript?
 
 An official transcript is your certified academic record.  
 
@@ -10,11 +10,11 @@ An official transcript displays the terms you attended, graded courses, academic
 
 Current students, former students and alumni can place an order for an official paper transcript or an electronic transcript (eTranscript).
 
-##### Unofficial transcript: 
+#### Unofficial transcript: 
 
 Office of the University Registrar does not provide copies of unofficial transcripts. Unofficial transcripts are available for review in Self-Service Banner for current students and alumni. Transcript key explaining the grading system is available for download.
 
-##### Student Responsibility
+#### Student Responsibility
 
 Check with the recipient regarding how they would like to receive your transcript.
 
@@ -26,7 +26,7 @@ Before placing an order for an electronic transcript, you should verify that the
 
 Students are required to pay their outstanding tuition balance in-full in order to receive a transcript.  No exceptions will be made.  Payments can be made in TUpay.  Questions regarding your balance can be directed to the Bursar Credit & Collections Department at 215-204-5549 or bursarcollections@temple.edu.
 
-#### Can I request a transcript by mail, fax, or email?
+### Can I request a transcript by mail, fax, or email?
 
 We do not accept transcript orders my mail, fax or email. All orders must be placed online. Unsolicited requests for transcripts made by mail, fax, or email will be discarded.
 
