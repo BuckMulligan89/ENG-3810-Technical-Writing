@@ -1,0 +1,92 @@
+John Bowman
+ENGLISH 3810: Technical Writing
+Professor Ryan Ozimo, Ph.D.
+22 March 2022
+
+Information Plan: Developing spaCy and Colab Documents for The Loretta C. Duckworth Scholars Studio Blog
+	
+Project Purpose:	To produce documentation to guide natural language processing tutorials using spaCy, Colab, and Github for the Loretta C. Duckworth Scholars Studio. The target audience for these tutorials will be Temple students, faculty and staff who are novices to natural language processing and programming. 
+
+Purpose of Documentation:	The documents included in the Information Plan describe the scope of the information covered by the spaCy and Colab notebook tutorials. The Scholars Studio will be able to create, edit, and manage a public archive of these tutorials, which can be used to promote more interest in the Scholars Studio resources. 
+
+Product Description and Usability Goals:
+	SpaCy is an open source library for natural language processing software which uses Python. The main components of the spaCy NLP tools are the ‘doc’ entity and the ‘tokenization’ of text. SpaCy recognizes various aspects of these ‘tokens,’ (whether they are numbers or punctuation, for example,) which allows users to manipulate and analyze the text in different ways. Google’s Colab notebooks function similarly to documents in Google Drive, but they allow you to combine executable code and markdown text in a single document. 
+	The goals of this project will be to get users quickly acquainted with the software tools in order to begin practicing right away on various texts. In the context of Temple University and the Loretta C. Duckworth Scholars Studio, these goals are feasible and practical to reach since students and faculty often need to study large or complex texts.
+
+Audience Analysis:	As Temple students encountering the spaCy and Colab tools for the first time, our class was able to conduct user research amongst ourselves to develop a preliminary user profile. In the classroom, we took turns taking notes during think aloud and critical incident interviews while implementing lessons from the spaCy and Colab protocols. Compiling our notes within Canvas discussions, we were able to compare and contrast user responses in order to begin making recommendations concerning future tutorials. 
+
+Audience Profile: 
+	The project to develop tutorials for the Loretta C. Duckworth Scholars Studio, which will support the use of natural language processing tools through the spaCy, Colab, and Github interfaces. The target audience for these tutorials are Temple students, faculty and staff who are novices to natural language processing and programming. These tutorials will be the users’ first introduction to implementing natural language processing with an Advanced Programming Interface. 
+	Initial research conducted in class has shown that the primary user audience will have little to no experience with coding or any Advanced Programming Interface, let alone natural language processing tools. Moreover; first-time users have expressed a tendency to feel overwhelmed by the new information, or discouraged that the coding aspect will be too complicated. If these novice users will mostly be Temple students and Faculty, however; then we can assume they will have a modest familiarity with the basic functioning of websites and word-processing applications, since these functions are integral to the academic system. This basic familiarity with simpler applications will provide the foundation for teaching more advanced concepts and skill sets required for natural language processing. 
+
+Audience Environment: 
+	The user environment for this project falls under the domain of the Loretta C. Duckworth Scholars Studio in Temple University’s Charles Library. The project’s audience encompasses both the physical space of the Scholars Studio and the classroom environment, and should be easily accessible to both students and faculty entering these spaces for the first time. In addition to the public environment of the University, users should also be able to access tutorials to practice at home. In most cases, users will be approaching this project’s documentation for help with a specific question or problem related to natural language processing, usually as a component of a larger project or collaboration.
+Natural language processing implies a virtual learning environment as an extension of the physical classroom. Building familiarity with the Advanced Programming Interfaces will necessarily take place in an ‘online’ environment: one in which novice users should already feel comfortable. Basic functionality such as text editing, copy/pasting, and saving files within a folder system comprise the underlying conditions for approaching the APIs. Since certain protocols apply differently in spaCy, Colab, and Github; having a common frame of reference for introducing new tools and concepts will facilitate learning across these platforms.  
+
+Audience Needs: 
+Based upon the results of audience testing conducted in class, the documentation should address the following:
+Novice users will require an overview of terms and concepts, as well as a basic re-introduction to coding and computing in general.
+Pursuant to the above, all the relevant terminology and variables should be explained; perhaps with the aid of a table or index. 
+Very clear start- and endpoints for the tasks covered by the tutorials will address very specific steps to minimize confusion.
+Where possible, users should be able to fill in the blanks of pre-formatted code to minimize the potential for errors.
+If possible, the lessons should proceed by reiterating relevant information at each step, reducing the need to scroll back and forth between instructions.
+Users should be able to quickly check their work for correctness. 
+Users may need reassurances and further support to not become intimidated or overwhelmed by the new information.
+
+Competitive Review: 	Our class compared tutorials from several sources. The main lessons described below cover the different approaches in teaching the NLP material. First, we look at the SWOT analysis for the SpaCy 101 modules. Then we compare the SWOT analysis of Google’s Colab Notebooks. Finally, we applied the same analysis to sections of the Machine Learning Plus website’s spaCy guide.
+
+Spacy 101
+	Strengths:
+Short, clear instructions paired with visual images provide context for each lesson.
+Thorough explanations on the product and its applications help to contextualize new information.
+Modular format lets the user keep track of their progress.
+Simple, clear language with a personal tone makes the material more approachable.
+	Weaknesses:
+Slideshow information cannot be accessed while practicing the code, so sometimes the user has to switch back and forth. Then they lose their progress.
+Fill-in-the-blank sections can be unclear because the user may not know what options are available to draw from.
+Only a few opportunities to practice each concept before the lesson moves on to the next level.
+Sometimes hard to see “behind the scenes” of the spaCy operations in this format.
+	Opportunities:
+There is an opportunity to provide a reference sheet or index of key terminology that the user can see alongside the lesson.
+More examples or chances for beginners to practice using these tools could help build confidence while reinforcing the larger concepts.
+
+Colab Notebooks
+Strengths:
+Ability to combine code and explanatory text in the same cells helps to break down each step.
+Format of the interface is familiar to users of Google Docs and similar text-processing applications, making it easier to save, share, and edit the lessons.
+Built-in troubleshooting alerts the user to possible errors and proper syntax.
+	Weaknesses:
+Cells must be run in the proper order for the code to function, which can sometimes lead to errors or confusion when moving or copying cells.
+Some of the NLP applications are unclear unless a copious explanation is provided, which tends to crowd out the code. 
+Longer Notebooks require more scrolling up and down from the user, increasing the chances that they lose their place or become bewildered.
+	Opportunities:
+The forms capability gives users a clearer sense of how to interact with the code itself, trying out different inputs and variables.
+Incorporating more graphics and visualizations might help illustrate the NLP functioning.
+
+Machine Learning Plus
+Strengths:
+Clear subject and subheading titles and numbers allow the user to quickly navigate the lessons.
+An Introduction and preliminary definition of the Doc object set up the requisite knowledge to follow the lessons.
+Relevant images of code cells accompany the text which provides a continuous explanation of each step.
+Approachable, personal language helps the reader thoroughly understand the technical terms.
+	Weaknesses:
+Omitting a certain overall context leaves the reader guessing how to interact with the guide
+The guide does not offer the user any opportunity to practice the knowledge for themselves.
+	Opportunities:
+Some provision for beginners to practice the NLP tools within the lesson would really complete the practical knowledge transfer.
+
+
+
+Design Implications: 	
+	Given the research and usability goals for this project, the recommendations for tutorials designed for novice users should strive to be approachable and clear. Beginners should be able to quickly ascertain the goals and applications of the Natural Language Processing software. This being said, a preliminary explanation which contextualizes the new information would ideally set up the user for success with the subsequent applications. Special attention should be given to introducing the specific terminology and syntax specific to the software. A glossary or reference bank would also be helpful as a supplementary document that the user can reference while following the tutorials.  
+	The tutorials should introduce the NLP and spaCy functions in clear, concise terms while avoiding technical jargon and wordy digressions. Understanding the Doc object and token attributes will be critical to users' successful completion of the lessons. Tutorials should incorporate relevant visualizations and images to help guide users through the steps. To avoid overwhelming users with too much information, tutorials should be broken down into task-specific lessons that only require the user to complete one step at a time. After each new concept has been presented, tutorials should allow users time to practice the tools and test their success independently. Some ability to keep track of one’s progress through the lesson, as well as a logical structuring of the key concepts will allow for more consistently successful user interactions.
+
+Challenges:	As with the teaching of any new information, tutorials for Natural Language Processing have the potential to be overwhelming. Anyone not familiar with coding at all will need to be acquainted with some of the basics of computer programming (i.e. object, function, string, etc.), and this could impede progress on the NLP aspect itself. Additionally, users might not be able to see the practical application of the tools within the limited scope of an introductory tutorial. Some survey of the possibilities opened up by Natural Language Processing and the application of these concepts across the wider Liberal Arts field may help keep users engaged and inspired to learn more, hopefully advancing their skills even further than the extent of this project.
+
+References
+
+Hackos, J. T. (1994). Managing Your Documentation Projects. John Wiley & Sons, Inc.
+
+spacy.io
+
+Prabharkaran, Selva. “spaCy Tutorial – Complete Writeup” https://www.machinelearningplus.com/spacy-tutorial-nlp/
